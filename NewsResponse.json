@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Philippines' 'dangerous' heat prompts shift to online classes, power crunch - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/world/asia-pacific/philippines-dangerous-heat-prompts-shift-online-classes-power-crunch-2024-04-29/",
+      "urlToImage": null,
+      "publishedAt": "2024-04-29T08:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ForexLive"
+      },
+      "author": "Justin Low",
+      "title": "USD/JPY volatility continues, sent back down to 155 levels - ForexLive",
+      "description": "USD/JPY 10-minute chart You can just how volatile the pair has been in the last three hours. The pair has been swinging in a range of 200 pips all around during that period.",
+      "url": "https://www.forexlive.com/news/usdjpy-volatility-continues-sent-back-down-to-155-levels-20240429/",
+      "urlToImage": "https://images.forexlive.com/images/USDJPY%20M10_id_6a503716-446b-4abf-891c-3f0b6a0708c3_size975.jpg",
+      "publishedAt": "2024-04-29T07:15:00Z",
+      "content": "High risk warning:\r\nForeign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade fo… [+2129 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Suspect killed after 3 police officers wounded by gunfire in standoff near New Orleans - The Associated Press",
+      "description": "Three Louisiana police officers were wounded by gunfire in a standoff with a man who was later killed by a police sharpshooter. WGNO-TV reports Sheriff Joseph Lopinto says a sniper from the Jefferson Parish Sheriff’s Office shot and killed the suspect on Sund…",
+      "url": "https://apnews.com/article/officers-shot-standoff-kenner-louisiana-a263408825d2e739b6d9bebf8268908f",
+      "urlToImage": "https://dims.apnews.com/dims4/default/163a608/2147483647/strip/true/crop/5564x3130+0+290/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7e%2F7f%2Fba6bea4eba71b8a157fc16088323%2Fb02ab189c8bc4b13a654f6d62b755ad8",
+      "publishedAt": "2024-04-29T07:03:00Z",
+      "content": "KENNER, La. (AP) Three Louisiana police officers were wounded by gunfire Sunday in a standoff with a man who was later killed by a police sharpshooter, authorities and news reports said.\r\nSheriff Jos… [+810 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Musk Leaves China With Tesla Driving Software Hurdles Cleared - Bloomberg",
+      "description": "Elon Musk’s quick visit to China paid immediate dividends, with Tesla Inc. clearing two key hurdles to introduce its driver-assistance system to the world’s biggest auto market.",
+      "url": "https://www.bloomberg.com/news/articles/2024-04-29/tesla-clears-key-china-fsd-hurdle-with-baidu-mapping-deal",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioqr3f5CJ1fE/v1/1200x800.jpg",
+      "publishedAt": "2024-04-29T06:44:00Z",
+      "content": "Elon Musks quick visit to China paid immediate dividends, with Tesla Inc. clearing two key hurdles to introduce its driver-assistance system to the worlds biggest auto market.\r\nThe US carmaker will p… [+323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jason Owens",
+      "title": "NBA playoffs: Anthony Edwards outshines Devin Booker, Kevin Durant to secure Timberwolves sweep of Suns - Yahoo Sports",
+      "description": "Durant and Booker combined for 82 points. But Edwards again proved too much for the Suns to overcome.",
+      "url": "https://sports.yahoo.com/nba-playoffs-anthony-edwards-outshines-devin-booker-kevin-durant-to-secure-timberwolves-sweep-of-suns-042906979.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZIy_RfPQgjqnfZAVF2QHuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/7474cb50-05dc-11ef-a775-e3c535e27cfb",
+      "publishedAt": "2024-04-29T06:14:00Z",
+      "content": "With their season on the line the Phoenix Suns' starts shone their brightest on Sunday against the Minnesota Timberwolves.\r\nIt wasn't enough.\r\nLed by their own All-Stars Anthony Edwards and Karl-Anth… [+4051 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": null,
+      "title": "CDC says 3 women diagnosed with HIV after receiving 'vampire facial' - NPR",
+      "description": "Although HIV transmission from contaminated blood through unsterile injection is a well-known risk, the CDC said this is the first documentation of probable infections involving cosmetic services.",
+      "url": "https://www.npr.org/2024/04/29/1247739040/cdc-women-hiv-vampire-facials",
+      "urlToImage": "https://media.npr.org/assets/img/2024/04/29/ap241197138925071_wide-d17d530eed979db1cc3ce73213f14a26db0dc955-s1400-c100.jpg",
+      "publishedAt": "2024-04-29T05:35:01Z",
+      "content": "This electron microscope image made available by the U.S. National Institutes of Health shows a human T cell, in blue, under attack by HIV, in yellow, the virus that causes AIDS.\r\nSeth Pincus, Elizab… [+1912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Palestinian leader appeals to US to stop Israel's Rafah offensive - BBC.com",
+      "description": "Mahmoud Abbas says any attack on city could see large numbers of Palestinians flee Gaza entirely.",
+      "url": "https://www.bbc.com/news/world-middle-east-68916315",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6DE6/production/_133243182_rafah-index-epa.jpg",
+      "publishedAt": "2024-04-29T04:06:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Albee Zhang, Ryan Woo",
+      "title": "China set to launch high-stakes mission to moon's 'hidden' side - Reuters",
+      "description": "China will send a robotic spacecraft in coming days on a round trip to the moon's far side in the first of three technically demanding missions that will pave the way for an inaugural Chinese crewed landing and a base on the lunar south pole.",
+      "url": "https://www.reuters.com/technology/space/china-set-launch-high-stakes-mission-moons-hidden-side-2024-04-29/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/WBCSNUFCWVM5DOXKI6XA2HFMBI.jpg?auth=795036147be26d6b574e906e8b9a6de1e3e8b6f48107a550ddbe0a44259d7182&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-04-29T03:30:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Amanda Yen",
+      "title": "Donald Trump Pans White House Correspondents' Dinner: 'Colin Jost BOMBED' - The Daily Beast",
+      "description": "He was the subject of many a roast by President Biden, SNL comedian Colin Jost, and others.",
+      "url": "https://www.thedailybeast.com/donald-trump-pans-white-house-correspondents-dinner-colin-jost-bombed",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_4292,w_7631,x_573,y_1257/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1714338630/GettyImages-2149752821_q7cri0",
+      "publishedAt": "2024-04-29T03:26:00Z",
+      "content": "Donald Trump weighed in on the White House Correspondents Dinner on Sunday, giving a terse, certified rotten review of its key players.\r\nThe White House Correspondents Dinner was really bad, he wrote… [+1801 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Armando Tinoco",
+      "title": "‘Challengers’ Stars Zendaya, Josh O’Connor & Mike Faist Talk Viral Churro Scene: “That Was My First Churro” - Deadline",
+      "description": "Challengers opened at the top of the U.S. box office, and one scene from the movie went viral on social media.",
+      "url": "http://deadline.com/2024/04/challengers-zendaya-josh-oconnor-mike-faist-viral-churro-scene-1235898100/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/04/challengers-churro-scene.jpg?w=1024",
+      "publishedAt": "2024-04-29T03:20:00Z",
+      "content": "SPOILER ALERT: This article contains details about Challengers.\r\nLuca Guadagnino‘s Challengers opened at the top of the U.S. box office, and one scene from the movie went viral on social media.\r\nThe … [+2309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Ambar Warrick",
+      "title": "Asian stocks rise as tech boost offsets Fed jitters; China leads By Investing.com - Investing.com",
+      "description": "Asian stocks rise as tech boost offsets Fed jitters; China leads",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-tech-boost-offsets-fed-jitters-china-leads-3402263",
+      "urlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAF0F2_L.jpg",
+      "publishedAt": "2024-04-29T03:11:42Z",
+      "content": "Investing.com-- Most Asian stocks rose on Monday as technology shares tracked strong gains in their Wall Street peers, while Chinese markets advanced after the government further loosened some restri… [+2768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Ellise Shafer",
+      "title": "Cannes Film Festival Jury: Lily Gladstone, Eva Green, Omar Sy and More Join President Greta Gerwig - Variety",
+      "description": "The full Cannes Film Festival competition jury has been revealed, including Lily Gladstone, Eva Green, Omar Sy and more.",
+      "url": "https://variety.com/2024/film/global/cannes-film-festival-jury-lily-gladstone-eva-green-omar-sy-greta-gerwig-1235984866/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2024/04/cannes-jury.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2024-04-29T03:00:00Z",
+      "content": "The full Cannes Film Festival competition jury has been revealed.\r\nJoining president Greta Gerwig to award this year’s Palme d’Or will be “Killers of the Flower Moon” Oscar nominee Lily Gladstone; “T… [+1850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Christian Arnold",
+      "title": "Disastrous Nike uniforms finally getting changes after MLB uproar - New York Post ",
+      "description": "MLB is planning on addressing the uniform issue that began during spring training after changes to them for this season led to extensive complaints from the players, according to multiple reports. …",
+      "url": "https://nypost.com/2024/04/28/sports/disastrous-nike-uniforms-finally-getting-changes-after-mlb-uproar/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-gctatjjvn-1714357037338.jpg?quality=75&strip=all&1714342714&w=1024",
+      "publishedAt": "2024-04-29T02:33:00Z",
+      "content": "Major League Baseballs uniform embarrassment appears to be coming to an end. \r\nMLB is planning on addressing the uniform issue that began during spring training after changes to them for this season … [+2319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KETV Omaha"
+      },
+      "author": "Kalé Searcy",
+      "title": "Zach Bryan helps Elkhorn community clean up tornado damage - KETV Omaha",
+      "description": "While in town for a show, the artist made a detour to West Omaha to lend a hand to those in need.",
+      "url": "https://www.ketv.com/article/popular-country-singer-zach-bryan-helps-elkhorn-community-clean-up-tornado-damage/60628648",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/zach-bryan-0124-662e68ba907cd.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2024-04-29T01:43:00Z",
+      "content": "ELKHORN, Neb. —Country singer and songwriter Zach Bryan headed to Elkhorn amid the devastation left by Friday's storm. \r\nThe star was spotted among other volunteers aiding in the cleanup effort. Some… [+568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "David Propper",
+      "title": "Hochul refers upstate NY DA to commission that investigates prosecutor conduct following caught-on-camera outburst at cop - New York Post ",
+      "description": "“District Attorneys are responsible for prosecuting criminal and traffic offenses, and must perform their duties with the highest ethical standards,” Hochul said.",
+      "url": "https://nypost.com/2024/04/28/us-news/hochul-refers-monroe-county-da-to-prosecutorial-oversight-commission/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/doorley-comp-2.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-04-29T01:27:00Z",
+      "content": "The upstate New York district attorney who berated a cop after she was caught speeding was referred by Gov. Kathy Hochul to a state commission tasked with investigating prosecutors conduct on Sunday.… [+3680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Omar Sohail",
+      "title": "Apple Vision Pro Successor Not Expected Until End Of 2026; Company Has Yet To Figure Out A Way To Reduce The Headset’s Cost - Wccftech",
+      "description": "A second-generation Apple Vision Pro may not arrive before end of 2026, but the company has yet to figure out a way to bring down cost",
+      "url": "https://wccftech.com/apple-vision-pro-successor-not-expected-until-end-of-2026/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/04/Apple-Vision-Pro-4.jpg",
+      "publishedAt": "2024-04-29T01:22:00Z",
+      "content": "The demand for Apple Vision Pro is slowly dwindling, but the companys long-term goals have not budged an inch. A new report states that the successor to the $3,499 AR headset could launch sometime by… [+2426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Matt Young",
+      "title": "Taylor Swift Is 'Completely Overwhelmed' at Historic Album Debut - The Daily Beast",
+      "description": "The singer reacted to the news that she has broken records with her latest album yet again.",
+      "url": "https://www.thedailybeast.com/taylor-swift-is-completely-overwhelmed-at-historic-album-debut",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3094,w_5500,x_0,y_21/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1714352177/2024-04-25T100123Z_528370785_RC20W5A3IQAX_RTRMADP_3_MUSIC-TICKETS_purgfs",
+      "publishedAt": "2024-04-29T01:20:00Z",
+      "content": "Taylor Swift reacted to the news Sunday that her latest album, The Tortured Poets Department, is as big her fans anticipated.\r\nAccording to Billboard, Swift now ties with Jay-Z for the most Number On… [+1329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "AJ McDougall",
+      "title": "South Dakota Animal Rescue Says No Dog Is 'Untrainable' After Kristi Noem's Shocking Admission - The Daily Beast",
+      "description": "The governor is standing by her decision to kill her 14-month-old puppy after judging it “less than worthless” as a hunting dog.",
+      "url": "https://www.thedailybeast.com/south-dakota-animal-rescue-says-no-dog-is-untrainable-after-kristi-noems-shocking-admission",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_4623,w_8219,x_0,y_769/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1714348622/GettyImages-2149375748_tfxnzd",
+      "publishedAt": "2024-04-29T00:54:00Z",
+      "content": "An animal shelter in South Dakota is rebuffing the idea that theres such a thing as an untrainable dog as Republican Gov. Kristi Noem defends a years-old decision to shoot her 14-month-old puppy over… [+3080 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Bart Scott shares his expectations for QB Jordan Travis, what he can learn from Tyrod Taylor | SNY - SNY",
+      "description": "SNY's Bart Scott, Willie Colon, Connor Rogers, and Steve Gelbs speak about Jets fifth round draft pick Jordan Travis and what he can learn sitting behind Aar...",
+      "url": "https://www.youtube.com/watch?v=KDcqIWXolhQ",
+      "urlToImage": "https://i.ytimg.com/vi/KDcqIWXolhQ/maxresdefault.jpg",
+      "publishedAt": "2024-04-29T00:39:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Spaceflight Now"
+      },
+      "author": null,
+      "title": "SpaceX launches 23 Starlink satellites on Falcon 9 flight from Cape Canaveral – Spaceflight Now - Spaceflight Now",
+      "description": null,
+      "url": "https://spaceflightnow.com/2024/04/28/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-flight-from-cape-canaveral-2/",
+      "urlToImage": null,
+      "publishedAt": "2024-04-29T00:22:30Z",
+      "content": "A Falcon 9 rocket lifts off from Space Launch Complex 40 at Cape Canaveral Space Force Station, carrying 23 Starlink satellites up to low Earth orbit on April 28, 2024. Image: Adam Bernstein/Spacefli… [+2587 chars]"
+    }
+  ]
+}
